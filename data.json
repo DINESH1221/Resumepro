@@ -1,0 +1,37 @@
+{
+  "basics":{
+    "name":"O.Dinesh",
+    "email":"dineshontela@gmail.com",
+    "photo":"profile.png",
+    "phone":"99999999",
+    "address":"Visakhapatnam, AP"
+  },
+  "career":{
+    "info":"Recent graduate with coursework and internship experience in investment banking seeks position as a financial administrator with a focus on financial modeling and valuation"
+  },
+  "education":[
+    {
+      "course":"MCA",
+      "college":"SVPCET,puttur",
+      "data":["2016-2019","90%"]
+    },
+{
+  "course":"Bsc(computers)",
+  "college":"Govt degree college,nagari ",
+  "data":["2013-2016","85%"]
+},
+{
+  "course":"inter",
+  "college":"Sri sai jyothi college ,nagari ",
+  "data":["2011-2013","85%"]
+
+},
+{
+  "course":"ssc",
+  "college":"ssvn school,nagari ",
+  "data":["2009-2010","85%"]
+}
+
+]
+
+}
